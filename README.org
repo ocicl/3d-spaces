@@ -1,0 +1,9 @@
+* 3d-spaces
+
+Implementations of various spatial query structures
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/shirakumo/3d-spaces.git |
+| commit  | f3cc877                                        |
+| systems | 3d-spaces                                      |
+|---------+------------------------------------------------|
