@@ -4,6 +4,6 @@ Implementations of various spatial query structures
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/shirakumo/3d-spaces.git |
-| commit  | e5cdad5                                        |
+| commit  | 1aab130                                        |
 | systems | 3d-spaces                                      |
 |---------+------------------------------------------------|
